@@ -8,7 +8,7 @@ https://drive.google.com/file/d/1ayERj2xGMIIHm9oPnYLc09oaKriyoeiq/view?usp=shari
 
 <img src="images/dag_macs2.svg"/>
 
-<img src="rulegraph_macs2.svg"/>
+<img src="images/rulegraph_macs2.svg"/>
 
 ## Promoter regions in JBR Genome Broeser
 
