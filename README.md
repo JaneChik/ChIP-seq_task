@@ -6,9 +6,9 @@ https://drive.google.com/file/d/1ayERj2xGMIIHm9oPnYLc09oaKriyoeiq/view?usp=shari
 
 ## New *dag.svg* and *rulegraph.svg*
 
-<img src="images/dag_macs2.svg", width="800">
+<img src="images/dag_macs2.svg"/>
 
-<img src="rulegraph_macs2.svg", width=800>
+<img src="rulegraph_macs2.svg"/>
 
 ## Promoter regions in JBR Genome Broeser
 
@@ -18,11 +18,11 @@ https://drive.google.com/file/d/1ayERj2xGMIIHm9oPnYLc09oaKriyoeiq/view?usp=shari
 
 ### example 2
 
-<img src="2_jbr_promoter.png", width="800"/>
+<img src="2_jbr_promoter.png"/>
 
 ### example 3
 
-<img src="3_jbr_promoter.png", width=800/>
+<img src="3_jbr_promoter.png"/>
 
 
 ```python
