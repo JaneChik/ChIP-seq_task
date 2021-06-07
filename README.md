@@ -14,15 +14,15 @@ https://drive.google.com/file/d/1ayERj2xGMIIHm9oPnYLc09oaKriyoeiq/view?usp=shari
 
 ### example 1
 
-<img src="1_jbr_promoter.png", width=800>
+<img src="1_jbr_promoter.png"/>
 
 ### example 2
 
-<img src="2_jbr_promoter.png", width="800">
+<img src="2_jbr_promoter.png", width="800"/>
 
 ### example 3
 
-![image-2.png](attachment:image-2.png)
+<img src="3_jbr_promoter.png", width=800/>
 
 
 ```python
