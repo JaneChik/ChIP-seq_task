@@ -6,9 +6,8 @@ https://drive.google.com/file/d/1ayERj2xGMIIHm9oPnYLc09oaKriyoeiq/view?usp=shari
 
 ## New *dag.svg* and *rulegraph.svg*
 
-![image.png](attachment:image.png)
-
-![image.png](attachment:image.png)
+<img src="images/dag_macs2.svg", width="800">
+<img src="rulegraph_macs2.svg", width="800">
 
 ## Promoter regions in JBR Genome Broeser
 
